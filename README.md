@@ -11,3 +11,11 @@ Welcome to our Medical ML Repository, where we harness the power of machine lear
 
 - **Reference**: Borzooei, S., Briganti, G., Golparian, M. et al. Machine learning for risk stratification of thyroid cancer patients: a 15-year cohort study. Eur Arch Otorhinolaryngol (2023). https://doi.org/10.1007/s00405-023-08299-w
 
+
+## 📈 [Heart Attack Prediction](Heart-Attack-Prediction.ipynb)
+
+- **Overview**: Predicting the likelihood [classification] of a heart attack
+- **Accuracy**: Achieved an accuracy of 88.52%.
+- **Techniques Used**: 
+  - Data Normalization: To improve model performance 
+  - Hyperparameter Optimization: Employed GridSearch and Optuna 
