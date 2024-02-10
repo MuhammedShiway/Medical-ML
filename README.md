@@ -29,7 +29,7 @@ Welcome to our Medical ML Repository, where we harness the power of machine lear
   - Model Types: XGBoost, LGBM, CatBoost, HistGradBoost
   - Hyperparameter Optimization + Ensemble: Optuna 
 
-  - **References**: 
+- **References**: 
    - Fabio Mendoza Palechor, and ,Alexis de la Hoz Manotas. (2023). Obesity or CVD risk (Classify/Regressor/Cluster) [Data set]. Kaggle. https://doi.org/10.34740/KAGGLE/DSV/7009925
 
    - Walter Reade, Ashley Chow. (2024). Multi-Class Prediction of Obesity Risk. Kaggle. https://kaggle.com/competitions/playground-series-s4e2
