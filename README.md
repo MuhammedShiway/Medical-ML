@@ -55,20 +55,17 @@ Welcome to our Medical ML Repository, where we harness the power of machine lear
   - **Precision**: 📏 1.0000
   - **Recall**: 🔄 0.7500
   - **F1 Score**: 🧩 0.8571
+  
 - **Key Insights**: 🔍
-- The models demonstrated strong precision and good overall performance, with particularly high precision indicating few false positives.
-- The dataset contains important features related to urine analysis that help predict kidney stone presence.
-
-
+  - The models demonstrated strong precision and good overall performance, with particularly high precision indicating few false positives.
+  - The dataset contains important features related to urine analysis that help predict kidney stone presence.
 - **Techniques Used**:
-- 🛠️ Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
-- 🧠 Models: Random Forest, XGBoost, and Neural Network.
-- 🧮 Evaluation Metrics: Accuracy, Precision, Recall, F1 Score, Confusion Matrix, and Classification Report.
-
+  - 🛠️ Data Preprocessing: Handling missing values, encoding categorical variables, and feature scaling.
+  - 🧠 Models: Random Forest, XGBoost, and Neural Network.
+  - 🧮 Evaluation Metrics: Accuracy, Precision, Recall, and F1 Score.
 - **Challenges**:
-- The small dataset size posed a challenge for model generalization.
-- Further data collection and feature engineering could help improve model robustness and accuracy.
-
+  - The small dataset size posed a challenge for model generalization.
+  - Further data collection and feature engineering could help improve model robustness and accuracy.
 - **References**: 📚
-- **Dataset**: Ghadiya, H. (2023). Kidney Stone Data. Retrieved from [https://www.kaggle.com/datasets/harshghadiya/kidneystone/data](https://www.kaggle.com/datasets/harshghadiya/kidneystone/data). Provided by Harsh Ghadiya. License: CC BY 4.0.
+  - **Dataset**: Ghadiya, H. (2023). Kidney Stone Data. Retrieved from [https://www.kaggle.com/datasets/harshghadiya/kidneystone/data](https://www.kaggle.com/datasets/harshghadiya/kidneystone/data). Provided by Harsh Ghadiya. License: CC BY 4.0.
 
