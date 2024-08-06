@@ -39,7 +39,7 @@ Welcome to our Medical ML Repository, where we harness the power of machine lear
    - Walter Reade, Ashley Chow. (2024). Multi-Class Prediction of Obesity Risk. Kaggle. https://kaggle.com/competitions/playground-series-s4e2
 
 
-## 🟢 [Kidney Stone Classification](./Kidney-Stone-Classification.ipynb)
+## 🟢 [Kidney Stone Classification](./kidney-stone-risk-analysis.ipynb)
 
 - **Overview**: 🩺 Classification of kidney stone presence using tabular data.
 
