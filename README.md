@@ -69,3 +69,20 @@ Welcome to our Medical ML Repository, where we harness the power of machine lear
 - **References**: 📚
   - **Dataset**: Ghadiya, H. (2023). Kidney Stone Data. Retrieved from [https://www.kaggle.com/datasets/harshghadiya/kidneystone/data](https://www.kaggle.com/datasets/harshghadiya/kidneystone/data). Provided by Harsh Ghadiya. License: CC BY 4.0.
 
+## 📈 [Parkinson Detection](./Parkinson-Disease-Detection.ipynb)
+
+- **Overview**: 🧠 Classification of Parkinson’s disease using nonlinear recurrence and fractal scaling properties from voice data.
+- **Dataset**: 📊 Features extracted from voice recordings to predict Parkinson’s disease. The dataset includes nonlinear metrics of fundamental frequency variation.
+- **Model Performance**:
+  - **Best Models**: 🎯 Random Forest, XGBoost, and CatBoost
+  - **Accuracy**: 94.87%
+  - **F1 Score**: 94.52%
+- **Techniques Used**:
+  - 🛠️ Data Preprocessing: Scaling and splitting the dataset.
+  - 🧠 Models: Logistic Regression, Decision Tree, Random Forest, Support Vector Classifier, XGBoost, and CatBoost.
+  - 🧮 Evaluation Metrics: Accuracy and F1 Score.
+- **Key Insights**: 🔍
+  - Ensemble models (Random Forest, XGBoost, and CatBoost) achieved the best performance.
+  - Nonlinear voice metrics are highly effective in distinguishing between Parkinson's and non-Parkinson's cases.
+- **References**: 📚
+  - Little MA, McSharry PE, Roberts SJ, Costello DAE, Moroz IM. *Exploiting Nonlinear Recurrence and Fractal Scaling Properties for Voice Disorder Detection.* BioMedical Engineering OnLine 2007, 6:23 (26 June 2007). [Link](https://biomedical-engineering-online.biomedcentral.com/articles/10.1186/1475-925X-6-23)
