@@ -69,7 +69,7 @@ Welcome to our Medical ML Repository, where we harness the power of machine lear
 - **References**: 📚
   - **Dataset**: Ghadiya, H. (2023). Kidney Stone Data. Retrieved from [https://www.kaggle.com/datasets/harshghadiya/kidneystone/data](https://www.kaggle.com/datasets/harshghadiya/kidneystone/data). Provided by Harsh Ghadiya. License: CC BY 4.0.
 
-## 📈 [Parkinson Detection](./Parkinson-Disease-Detection.ipynb)
+## 📈 [Parkinson Disease Detection](./Parkinson-Disease-Detection.ipynb)
 
 - **Overview**: 🧠 Classification of Parkinson’s disease using nonlinear recurrence and fractal scaling properties from voice data.
 - **Dataset**: 📊 Features extracted from voice recordings to predict Parkinson’s disease. The dataset includes nonlinear metrics of fundamental frequency variation.
@@ -78,7 +78,6 @@ Welcome to our Medical ML Repository, where we harness the power of machine lear
   - **Accuracy**: 94.87%
   - **F1 Score**: 94.52%
 - **Techniques Used**:
-  - 🛠️ Data Preprocessing: Scaling and splitting the dataset.
   - 🧠 Models: Logistic Regression, Decision Tree, Random Forest, Support Vector Classifier, XGBoost, and CatBoost.
   - 🧮 Evaluation Metrics: Accuracy and F1 Score.
 - **Key Insights**: 🔍
