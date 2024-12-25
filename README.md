@@ -3,6 +3,18 @@
 Welcome to our Medical ML Repository, where we harness the power of machine learning to tackle challenging medical problems! 🌟
 
 
+## 📈 [ECG Arrhythmia Classification](99-ecg-arrhythmia-classification.ipynb)
+
+- **Overview**: Classifying ECG arrhythmia types into 'N', 'VEB', 'SVEB', and 'F' based on two-lead ECG signal features.  
+- **Accuracy**: Achieved an accuracy of **99%**.  
+- **Techniques Used**:  
+   - Gradient Boosting Models: **XGBoost**, **CatBoost**, and **LightGBM**  
+   - Hyperparameter Optimization: **Optuna**  
+   - Ensemble Learning: **Voting Classifier (Soft Voting)**  
+- **References**:  
+   - Moody, G.B., & Mark, R.G. (2001). *The Impact of the MIT-BIH Arrhythmia Database.* [Link](http://ecg.mit.edu/george/publications/mitdb-embs-2001.pdf)  
+   - Sakib, S.S., et al. (2021). *Harnessing AI for Secure ECG Analytics on the Edge: Cardiac Arrhythmia Classification.* [Link](https://www.taylorfrancis.com/chapters/edit/10.1201/9781003028635-11/harnessing-artificial-intelligence-secure-ecg-analytics-edge-cardiac-arrhythmia-classification-sadman-sakib-mostafa-fouda-zubair-md-fadlullah)
+
 
 ## 📈 [Heart Attack Prediction](Heart-Attack-Prediction.ipynb)
 
