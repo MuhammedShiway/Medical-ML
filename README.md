@@ -2,15 +2,6 @@
 
 Welcome to our Medical ML Repository, where we harness the power of machine learning to tackle challenging medical problems! 🌟
 
-## 📈 [Differentiated Thyroid Cancer Recurrence Prediction](./Differentiated-Thyroid-Cancer-Recurrence.ipynb)
-
-- **Features**: 📊 Mostly categorical (except 'Age')
-- **Model Performance**: 🎯 100% accuracy with Random Forest
-- **Key Insights**: 🔑 The most important features are 'Response', 'Risk', 'N' {Node}, 'T' {Tumor}, 'Age', 'Adenopathy', and 'Stage'.
-- **Feature Importance**: Top 7 features gets us to 100% accuracy
-
-- **References**: 
-   - Borzooei, S., Briganti, G., Golparian, M. et al. Machine learning for risk stratification of thyroid cancer patients: a 15-year cohort study. Eur Arch Otorhinolaryngol (2023). https://doi.org/10.1007/s00405-023-08299-w
 
 
 ## 📈 [Heart Attack Prediction](Heart-Attack-Prediction.ipynb)
@@ -23,6 +14,16 @@ Welcome to our Medical ML Repository, where we harness the power of machine lear
 - **References**: 
    - Rahman, R. (2021). Heart Attack Analysis & Prediction Dataset [Data set]. Kaggle. https://www.kaggle.com/datasets/rashikrahmanpritom/heart-attack-analysis-prediction-dataset
 
+
+## 📈 [Differentiated Thyroid Cancer Recurrence Prediction](./Differentiated-Thyroid-Cancer-Recurrence.ipynb)
+
+- **Features**: 📊 Mostly categorical (except 'Age')
+- **Model Performance**: 🎯 100% accuracy with Random Forest
+- **Key Insights**: 🔑 The most important features are 'Response', 'Risk', 'N' {Node}, 'T' {Tumor}, 'Age', 'Adenopathy', and 'Stage'.
+- **Feature Importance**: Top 7 features gets us to 100% accuracy
+
+- **References**: 
+   - Borzooei, S., Briganti, G., Golparian, M. et al. Machine learning for risk stratification of thyroid cancer patients: a 15-year cohort study. Eur Arch Otorhinolaryngol (2023). https://doi.org/10.1007/s00405-023-08299-w
 
 
 ## 📈 [Obesity Prediction - Classification](Obesity-Classification-98-11-orig-91-47-comp.ipynb)
